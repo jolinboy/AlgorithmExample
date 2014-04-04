@@ -7,5 +7,5 @@ count -= count;
 if(count==0) {
 System.out.println("A : "+a+"B : "+b+"C : "+c+"D : "+d);
 return; }
-matrix(a, b, c, d, count);
+matrix(a, b, c, d, count); }
 
